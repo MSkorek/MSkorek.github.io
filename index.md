@@ -1,2 +1,2 @@
 # RA pour le web
-La relaite augmentee n'aura jamais ete aussi directe! Voyez par vous-meme. [ici](website.html)!
+La réalitée augmentée n'aura jamais été aussi directe! Voyez par vous-même: [ici](website.html)!
